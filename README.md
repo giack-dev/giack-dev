@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @giack-dev
+- 👋 Hi, I’m Giacomo
+- 📍 I am Italian
+- ⌚ I am 14
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Nuxt.js
 - 🎒 I am a student, i am studying CS
