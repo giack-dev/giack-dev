@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giack-dev
-- 👀 I’m interested in coding and linux(I use Arch btw)
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Nuxt.js
 - 🎒 I am a student, i am studying CS
 - 📫 Feel free to DM me on Reddit(u/ItsGiack)
 
