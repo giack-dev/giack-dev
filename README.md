@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Giacomo
-- 📍 I am Italian
+- 📍  I am Italian
 - ⌚ I am 14
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Nuxt.js
+- 👀 I’m am a coder
+- 🌱 I’m currently learning Dotnet/Mono with Unity
+- 💻 I use Arch btw
 - 🎒 I am a student, i am studying CS
 - 📫 Feel free to DM me on Reddit(u/ItsGiack)
 
