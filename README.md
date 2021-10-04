@@ -2,7 +2,7 @@
 - 📍  I am Italian
 - ⌚ I am 14
 - 👀 I’m am a coder
-- 🌱 I’m currently learning Dotnet/Mono with Unity
+- 🌱 I’m currently learning Rust
 - 💻 I use Arch btw
 - 🎒 I am a student, i am studying CS
 - 📫 Feel free to DM me on Reddit(u/ItsGiack)
