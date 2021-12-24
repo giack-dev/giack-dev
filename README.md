@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Giacomo
-- 📍  I am Italian
-- ⌚ I am 14
-- 👀 I’m am a coder
-- 🌱 I’m currently learning Rust
+- 📍 I am Italian
+- ⌚ I am 15
+- 👀 I’m am a software developer
+- 🌱 I’m currently learning ReactJS
 - 💻 I use Arch btw
-- 🎒 I am a student, i am studying CS
+- 🎒 I am a student, I am attending the Technical Institute Pininfarina in Turin
 - 📫 Feel free to DM me on Reddit(u/ItsGiack)
 
 <!---
