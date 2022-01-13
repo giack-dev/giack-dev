@@ -2,7 +2,7 @@
 - 📍 I am Italian
 - ⌚ I am 15
 - 👀 I’m am a software developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I'm currently developing a roguelike game
 - 💻 I use Arch btw
 - 🎒 I am a student, I am attending the Technical Institute Pininfarina in Turin
 - 📫 Feel free to DM me on Reddit(u/ItsGiack)
