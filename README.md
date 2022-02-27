@@ -4,7 +4,7 @@
 - 👀 I’m am a software developer
 - 🌱 I'm currently developing a roguelike game
 - 💻 I use Arch btw
-- 🎒 I am a student, I am attending the Technical Institute Pininfarina in Turin
+- 🎒 I am a student, I am attending the "Istituto Tecnico Informatico Pininfarina" in Turin
 - 📫 Feel free to DM me on Reddit(u/ItsGiack)
 
 <!---
