@@ -1,4 +1,4 @@
-#👨🏼‍💻 Giacomo Peretti
+# 👨🏼‍💻 Giacomo Peretti
 
 **`Software Engineer/Student`**
 
