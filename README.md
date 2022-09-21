@@ -2,7 +2,7 @@
 
 **`Software Engineer/Student`**
 
-I am a 16 year old student studying software engineering in Turin. Italy. In all of my projects I try to tackle all software problems by myself. I like coding backend web applications and little indie games in my free time.
+I am a student learning to code and manage code one step at a time. My Projects are created from the ground up, from pseudocode to the final working product.
 
 ---
 
