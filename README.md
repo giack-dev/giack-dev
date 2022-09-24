@@ -22,6 +22,8 @@ I am a student learning to code and manage code one step at a time. My Projects 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br />
 
+
+
 #
           
 ### 📊 Stats
