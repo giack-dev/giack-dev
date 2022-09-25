@@ -27,4 +27,4 @@ I am a student learning to code and manage code one step at a time. My Projects 
           
 ### 📊 Stats
 
-![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&theme=gruvbox)
+![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox)
