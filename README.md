@@ -24,7 +24,7 @@ me.say_hi()
 
 - Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,c,cs,cpp,java,html,css,js,nodejs,express&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cs,cpp,html,css,js,nodejs,express,rust,godot&theme=dark&perline=3)](https://skillicons.dev)
 
 #
           
