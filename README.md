@@ -24,10 +24,13 @@ me.say_hi()
 
 - Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cs,cpp,html,css,js,nodejs,express,rust,godot&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cs,cpp,html,css,js,nodejs,express,rust,godot&theme=dark&perline=4)](https://skillicons.dev)
 
 #
-          
-### 📊 Stats
 
-![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox)
+<details>
+    <summary>📊 Stats</summary>
+    ![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox)
+
+</details>
+
