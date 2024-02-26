@@ -24,7 +24,7 @@ I am a student learning to code and manage code one step at a time. My Projects 
 -->
 - Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,c,cs,cpp,java,,html,css,js,nodejs,expresstheme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,c,cs,cpp,java,html,css,js,nodejs,express&theme=dark&perline=5)](https://skillicons.dev)
 #
           
 ### 📊 Stats
