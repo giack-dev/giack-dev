@@ -21,10 +21,7 @@ me.say_hi()
 
 ### 🧰 Languages and Tools
 
-
-- Languages:
-
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cs,cpp,html,css,js,nodejs,express,rust,godot&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cs,cpp,html,css,js,nodejs,express,rust,godot,bash&theme=dark&perline=3)](https://skillicons.dev)
 
 #
 
