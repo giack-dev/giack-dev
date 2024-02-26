@@ -30,6 +30,7 @@ me.say_hi()
 
 <details>
     <summary>📊 Stats</summary>
+    
     ![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox)
 
 </details>
