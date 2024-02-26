@@ -1,30 +1,31 @@
 # 👨🏼‍💻 Giacomo Peretti
 
-**`Software Engineer/Student`**
+```python
+#!/usr/bin/python
 
-I am a student learning to code and manage code one step at a time. My Projects are created from the ground up, from pseudocode to the final working product.
+class SoftwareEngineer:
+    def __init__(self):
+        self.full_name = "Giacomo Peretti"
+        self.role = "Software Engineer/Student"
+        self.language_spoken = ["it_IT", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you'll find something interesting here. :)")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ---
 
 ### 🧰 Languages and Tools
 
-<!---
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Hugo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" />
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<br />
-<br />
--->
+
 - Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,c,cs,cpp,java,html,css,js,nodejs,express&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,c,cs,cpp,java,html,css,js,nodejs,express&theme=dark&perline=3)](https://skillicons.dev)
+
 #
           
 ### 📊 Stats
