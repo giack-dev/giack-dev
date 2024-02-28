@@ -25,8 +25,7 @@ me.say_hi()
 
 #
 
-<details close>
-    <summary><h2>📊 Stats</h2></summary>
+<details close><summary><h2>📊 Stats</h2></summary>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&hide_border=true" />
 </details>
 
