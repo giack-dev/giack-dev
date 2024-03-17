@@ -21,11 +21,12 @@ me.say_hi()
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cs,cpp,html,css,js,nodejs,express,rust,godot,bash&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,cpp,SQL,html,css,js,godot,bash&theme=dark&perline=3)](https://skillicons.dev)
 
 #
 
-<details close><summary>📊 Stats</summary>
+<details close>
+    <summary>📊 Stats</summary>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&hide_border=true" />
 </details>
 
